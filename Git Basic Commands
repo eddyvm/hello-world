@@ -1,0 +1,14 @@
+Git Basic Commands
+
+Git init 					//Initialize Local Git Repository
+git add <file>					//New File
+git status					//Check Status Of Working Tree
+git commit 					//Commit Changes In Index
+git push					//Push To Remote Repository
+git pull 					//Pull Lastest From Remote Repository
+git clone					//clone Repository Into A New Directory
+git config —global user.name ‚Name‘
+git config —global user.email ‚email‘
+git rm —cached <file> 				//Deletes File from Repository
+git add.					//Add All Files
+
