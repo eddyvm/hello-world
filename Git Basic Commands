@@ -3,7 +3,7 @@ Git Basic Commands
 Git init 					//Initialize Local Git Repository
 git add <file>					//New File
 git status					//Check Status Of Working Tree
-git commit 					//Commit Changes In Index
+git commit 					//Commit Changes In Index (I=insert mode)
 git push					//Push To Remote Repository
 git pull 					//Pull Lastest From Remote Repository
 git clone					//clone Repository Into A New Directory
