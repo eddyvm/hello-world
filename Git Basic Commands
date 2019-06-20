@@ -15,3 +15,11 @@ git commit -m ‚text‘				//Überspringen der Commit HUD
 touch .gitignore				//Ordner zum Ignorieren von Dateien
 						//Einfach Reinschreiben Ordner=/Ordner
 
+git branch ‚name‘				//creates branch
+
+git checkout ‚name‘				//gets into branch
+
+git checkout master				//gets to master branch
+
+git merge ‚name‘				//merges branch with master
+
