@@ -11,4 +11,7 @@ git config —global user.name ‚Name‘
 git config —global user.email ‚email‘
 git rm —cached <file> 				//Deletes File from Repository
 git add.					//Add All Files
+git commit -m ‚text‘				//Überspringen der Commit HUD
+touch .gitignore				//Ordner zum Ignorieren von Dateien
+						//Einfach Reinschreiben Ordner=/Ordner
 
